@@ -1,5 +1,13 @@
 # 🌾 OptiCrop – AI-Powered Smart Agricultural Production Optimization Engine
 
+<p align="center">
+
+<a href="https://opticrop-smart-agricultural-production-uo17.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/🚀-Live%20Demo-00C853?style=for-the-badge" />
+</a>
+
+</p>
+
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
